@@ -1,2 +1,2 @@
-# Site-android
- Site para exercitar as técnicas do curso
+# Projeto Site Android
+ Estou aprendendo a gerenciar meus códigos
